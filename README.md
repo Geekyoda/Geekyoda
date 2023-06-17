@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Next.js , Typescript,**
 
-- 💬 Ask me about **HTML, CSS, Javascript, Reactjs, Node.js, Mongodb**
+- 💬 Ask me about **HTML, CSS, Javascript, Reactjs, Node.js, Express.js, Mongodb**
 
 - 📫 How to reach me **0309satyamkr@gmail.com**
 
