@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/search?q=animated+banner+for+mern+stck+developer&tbm=isch&ved=2ahUKEwjOhNy2wMr_AhUkkdgFHckYCNIQ2-cCegQIABAA&oq=animated+banner+for+mern+stck+developer&gs_lcp=CgNpbWcQAzoECCMQJzoHCAAQigUQQzoFCAAQgAQ6BggAEAgQHjoHCAAQGBCABFCTCFieNGCVNmgAcAB4AIAB2QGIAYwekgEGMC4yNC4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=kcGNZI54pKLi3g_JsaCQDQ&bih=975&biw=1920&rlz=1C1CHBF_en-GBIN1048IN1048#imgrc=36RqwggM1L1o1M)
+
 <h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
 <h3 align="center">A passionate frontend/MERN stack/backend developer from India</h3>
 
